@@ -22,6 +22,8 @@ addig text
 #git commit -a
 #git commit -m '#' // git commit with ignore messege
 #git commit -a -m "your message here" 
+#git add day1.txt && git commit -a -m "your message here" // add and commit
+
 
 # :q // vim write
 # :qa // vim exit
