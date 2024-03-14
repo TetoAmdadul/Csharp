@@ -1,0 +1,31 @@
+install git from online
+then open cmd 
+check 
+git status
+
+# git remote add origin "link"
+
+creating text file
+
+# nul > filename.txt
+
+addig text 
+
+# nul ............. >filename.txt
+# nul ............. >>filename.txt // adding info in newline
+
+# git add FileName // adding single
+# git add --all // adding all files
+
+#git commit -a
+#git commit -m '#' // git commit with ignore messege
+
+# :q // vim write
+# :qa // vim exit
+
+#git log --oneline
+#git log
+
+#git push
+
+
