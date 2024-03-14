@@ -9,6 +9,8 @@ creating text file
 
 # nul > filename.txt
 
+#cls 
+
 addig text 
 
 # nul ............. >filename.txt
