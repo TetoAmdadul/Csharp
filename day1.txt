@@ -1,3 +1,10 @@
+cd OneDrive\Desktop\Github\Csharp
+// this is my git directory
+
+https://github.com/TetoAmdadul/Csharp.git
+
+// this my git link
+
 install git from online
 then open cmd 
 check 
