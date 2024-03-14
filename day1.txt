@@ -1,7 +1,8 @@
 cd OneDrive\Desktop\Github\Csharp
 // this is my git directory
 
-git add day1.txt && git commit -a -m "your message here"&& git push
+git add --all && git commit -a -m "your message here" && git push
+git push
 
 https://github.com/TetoAmdadul/Csharp.git
 
