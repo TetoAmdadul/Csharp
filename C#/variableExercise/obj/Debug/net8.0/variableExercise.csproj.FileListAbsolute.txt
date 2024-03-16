@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\bin\Debug\net8.0\variableExercise.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\bin\Debug\net8.0\variableExercise.deps.json
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\bin\Debug\net8.0\variableExercise.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\bin\Debug\net8.0\variableExercise.dll
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\bin\Debug\net8.0\variableExercise.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\obj\Debug\net8.0\variableExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\obj\Debug\net8.0\variableExercise.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\obj\Debug\net8.0\variableExercise.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\obj\Debug\net8.0\variableExercise.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\obj\Debug\net8.0\variableExercise.sourcelink.json
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\obj\Debug\net8.0\variableExercise.dll
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\obj\Debug\net8.0\refint\variableExercise.dll
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\obj\Debug\net8.0\variableExercise.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\obj\Debug\net8.0\variableExercise.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\variableExercise\obj\Debug\net8.0\ref\variableExercise.dll

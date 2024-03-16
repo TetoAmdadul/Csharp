@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\bin\Debug\net8.0\ExerciseDay2.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\bin\Debug\net8.0\ExerciseDay2.deps.json
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\bin\Debug\net8.0\ExerciseDay2.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\bin\Debug\net8.0\ExerciseDay2.dll
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\bin\Debug\net8.0\ExerciseDay2.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\obj\Debug\net8.0\ExerciseDay2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\obj\Debug\net8.0\ExerciseDay2.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\obj\Debug\net8.0\ExerciseDay2.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\obj\Debug\net8.0\ExerciseDay2.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\obj\Debug\net8.0\ExerciseDay2.sourcelink.json
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\obj\Debug\net8.0\ExerciseDay2.dll
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\obj\Debug\net8.0\refint\ExerciseDay2.dll
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\obj\Debug\net8.0\ExerciseDay2.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\obj\Debug\net8.0\ExerciseDay2.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ExerciseDay2\obj\Debug\net8.0\ref\ExerciseDay2.dll
