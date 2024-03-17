@@ -1,0 +1,47 @@
+cd OneDrive\Desktop\Github\Csharp
+// this is my git directory
+
+git add --all && git commit -a -m "your message here" && git push
+git push
+
+https://github.com/TetoAmdadul/Csharp.git
+
+// this my git link
+
+install git from online
+then open cmd 
+check 
+git status
+
+# git remote add origin "link"
+
+creating text file
+
+# nul > filename.txt
+
+#cls 
+
+addig text 
+
+# nul ............. >filename.txt
+# nul ............. >>filename.txt // adding info in newline
+
+# git add FileName // adding single
+# git add --all // adding all files
+
+#git commit -a
+#git commit -m '#' // git commit with ignore messege
+#git commit -a -m "your message here" 
+#git add day1.txt && git commit -a -m "your message here" // add and commit
+
+git add day1.txt && git commit -a -m "your message here"&& git push
+
+# :q // vim write
+# :qa // vim exit
+
+#git log --oneline
+#git log
+
+#git push
+
+
