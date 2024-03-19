@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\obj\Debug\MainWindow.baml
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\obj\Debug\MainWindow.g.cs
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\obj\Debug\App.g.cs
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\obj\Debug\Methods_MarkupCompile.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\obj\Debug\Methods.g.resources
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\obj\Debug\Methods.Properties.Resources.resources
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\obj\Debug\Methods.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\StepByStep\Chapter 3\Methods\Methods\obj\Debug\Methods.pdb

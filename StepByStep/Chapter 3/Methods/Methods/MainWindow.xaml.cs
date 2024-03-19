@@ -109,5 +109,10 @@ namespace MathsOperators
         {
             this.Close();
         }
+
+        private void addition_Checked(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

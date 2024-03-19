@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchCalculator\bin\Debug\SwitchCalculator.exe.config
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchCalculator\bin\Debug\SwitchCalculator.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchCalculator\bin\Debug\SwitchCalculator.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchCalculator\obj\Debug\SwitchCalculator.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchCalculator\obj\Debug\SwitchCalculator.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchCalculator\obj\Debug\SwitchCalculator.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchCalculator\obj\Debug\SwitchCalculator.pdb

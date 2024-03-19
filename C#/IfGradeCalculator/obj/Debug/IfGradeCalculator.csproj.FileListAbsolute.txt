@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfGradeCalculator\bin\Debug\IfGradeCalculator.exe.config
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfGradeCalculator\bin\Debug\IfGradeCalculator.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfGradeCalculator\bin\Debug\IfGradeCalculator.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfGradeCalculator\obj\Debug\IfGradeCalculator.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfGradeCalculator\obj\Debug\IfGradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfGradeCalculator\obj\Debug\IfGradeCalculator.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfGradeCalculator\obj\Debug\IfGradeCalculator.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfVowel\bin\Debug\IfVowel.exe.config
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfVowel\bin\Debug\IfVowel.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfVowel\bin\Debug\IfVowel.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfVowel\obj\Debug\IfVowel.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfVowel\obj\Debug\IfVowel.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfVowel\obj\Debug\IfVowel.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\IfVowel\obj\Debug\IfVowel.pdb

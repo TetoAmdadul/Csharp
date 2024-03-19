@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SmallerNumber\bin\Debug\SmallerNumber.exe.config
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SmallerNumber\bin\Debug\SmallerNumber.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SmallerNumber\bin\Debug\SmallerNumber.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SmallerNumber\obj\Debug\SmallerNumber.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SmallerNumber\obj\Debug\SmallerNumber.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SmallerNumber\obj\Debug\SmallerNumber.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SmallerNumber\obj\Debug\SmallerNumber.pdb

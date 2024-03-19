@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\EvenOdd\bin\Debug\EvenOdd.exe.config
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\EvenOdd\bin\Debug\EvenOdd.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\EvenOdd\bin\Debug\EvenOdd.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\EvenOdd\obj\Debug\EvenOdd.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\EvenOdd\obj\Debug\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\EvenOdd\obj\Debug\EvenOdd.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\EvenOdd\obj\Debug\EvenOdd.pdb

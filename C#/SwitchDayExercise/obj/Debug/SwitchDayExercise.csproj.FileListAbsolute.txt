@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchDayExercise\bin\Debug\SwitchDayExercise.exe.config
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchDayExercise\bin\Debug\SwitchDayExercise.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchDayExercise\bin\Debug\SwitchDayExercise.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchDayExercise\obj\Debug\SwitchDayExercise.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchDayExercise\obj\Debug\SwitchDayExercise.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchDayExercise\obj\Debug\SwitchDayExercise.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\SwitchDayExercise\obj\Debug\SwitchDayExercise.pdb
