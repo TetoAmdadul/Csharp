@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ForLoop\obj\Debug\ForLoop.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\asus\OneDrive\Desktop\Github\Csharp\C#\ForLoop\obj\Debug\ForLoop.pdb
