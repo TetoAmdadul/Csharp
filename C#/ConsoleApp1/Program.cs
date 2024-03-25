@@ -13,49 +13,6 @@ namespace ConsoleApp1
 
 
 
-            int number = 0;
-            int sum = 0;
-            int totalNumbers = 0;
-            float average = 0;
-
-
-
-            while (true)
-            {
-
-               
-                number = Convert.ToInt32(Console.ReadLine());
-                if (number == -1)
-                {
-                    break;
-                }
-                else 
-
-                {
-
-                    sum = sum + number;
-                    totalNumbers++;
-                    continue;
-                }
-
-            }
-            
-            average = (float)sum / totalNumbers;
-            Console.WriteLine("Thx! Bye!");
-            Console.WriteLine("sum: " + sum);
-            Console.WriteLine($"Numbers: {totalNumbers}");
-            Console.WriteLine("Average: "+average);
-            number = Convert.ToInt32(Console.ReadLine());
-
-            if (number % 2 == 0)
-            {
-                Console.WriteLine("Even: " + number);
-            }
-            else
-            {
-                Console.WriteLine("Odd: " + number);
-            }
-
 
             /***********************************************o2Exercise021*********************
 
@@ -123,7 +80,60 @@ namespace ConsoleApp1
 
             *********************************************************************************/
             /***********************************************02Exercise08**********************
+            namespace Exercise008
+{
+    using System;
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+               int number = 0;
+  int sum = 0;
+  int totalNumbers = 0;
+  float average = 0;
+  int even = 0;   
+  int odd = 0;
+  Console.WriteLine("Give numbers:");
 
+
+  while (true)
+  {
+
+      number = Convert.ToInt32(Console.ReadLine());
+      if (number == -1)
+      {
+          break;
+      }
+      else
+
+      {
+
+          sum = sum + number;
+          totalNumbers++;
+         
+          if  (number  % 2 == 0)
+          {
+              even++;
+
+          }
+          else
+          {
+              odd++;
+          }
+      }
+
+  }
+
+  average = (float)sum / totalNumbers;
+  Console.WriteLine("Thx! Bye!");
+  Console.WriteLine("Sum: " + sum);
+  Console.WriteLine($"Numbers: {totalNumbers}");
+  Console.WriteLine("Average: " + average);
+  Console.WriteLine("Even: " + even);
+  Console.WriteLine("Odd: " + odd);      
+        }
+    }
+}
 
 
           *********************************************************************************/
